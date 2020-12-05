@@ -2,6 +2,9 @@
 
 This is a simple Messenger app which allows to type message to mock friends and view the chat history.
 
+# Output 
+### [Check out here](https://jazzie-z.github.io/messenger-app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -13,4 +16,3 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
-
